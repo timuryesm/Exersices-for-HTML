@@ -15,19 +15,15 @@ First steps to Web Developer
             <li><a href="about.html">About</a> </li>
             <li><a href="contact">Contact</a> </li>
         </ul>
-
     </nav>
     <main>
         <h1>Chicken</h1>
         <hr>
-
         <!--Alt attribute will be read by screenreader -->
-
         <img src="57.jpg" alt="It's me - Timur">
         <div>
             <a href="about.html ">I AM A LINK!!</a>
         </div>
-
         <p>The <b>chicken</b> (Gallus domesticus) is a <a
                 href="https://en.wikipedia.org/wiki/Domestication">domesticated</a> subspecies of the red junglefowl,
             with
@@ -38,11 +34,9 @@ First steps to Web Developer
             is a term for an adult male bird, and a younger male may be called a cockerel. A male that has been
             castrated is
             a capon. An adult female bird is called a hen and a sexually immature female is called a pullet.</p>
-
         <p>Originally raised for cockfighting or for special ceremonies, chickens were not kept for food until the
             Hellenistic period (4th–2nd centuries BC).[2][3] Humans now keep chickens primarily as a source of food
             (consuming both their meat and eggs) and as pets.</p>
-
         <h2>Breeds of Chickens</h2>
         <ul>
             <li>Bantam
@@ -69,5 +63,4 @@ First steps to Web Developer
         </ul>
     </footer>
 </body>
-
 </html>
